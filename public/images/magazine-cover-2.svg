@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" fill="none">
+  <rect width="600" height="800" fill="#C62828"/>
+  <rect x="30" y="30" width="540" height="740" rx="16" fill="#FFFFFF"/>
+  <rect x="60" y="60" width="480" height="220" rx="12" fill="#0D47A1"/>
+  <text x="80" y="120" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">PLASTIC SANDESH</text>
+  <text x="80" y="165" fill="#DCEBFF" font-family="Arial, sans-serif" font-size="18">Innovation &amp; Technology Edition</text>
+  <rect x="70" y="320" width="460" height="220" rx="14" fill="#ECEFF4"/>
+  <rect x="95" y="350" width="160" height="160" rx="12" fill="#90A4AE"/>
+  <rect x="285" y="352" width="220" height="16" rx="8" fill="#0D47A1"/>
+  <rect x="285" y="382" width="200" height="14" rx="7" fill="#607D8B"/>
+  <rect x="285" y="411" width="180" height="14" rx="7" fill="#607D8B"/>
+  <rect x="285" y="440" width="190" height="14" rx="7" fill="#607D8B"/>
+  <rect x="285" y="469" width="165" height="14" rx="7" fill="#607D8B"/>
+  <rect x="60" y="590" width="480" height="130" rx="10" fill="#F4F6F8"/>
+  <text x="80" y="642" fill="#C62828" font-family="Arial, sans-serif" font-size="20" font-weight="700">Machinery Upgrade and Process Automation</text>
+  <text x="80" y="680" fill="#607D8B" font-family="Arial, sans-serif" font-size="16">Expert Views from Plant Leaders</text>
+</svg>

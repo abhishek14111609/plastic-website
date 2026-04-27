@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" fill="none">
+  <rect width="600" height="800" fill="#263238"/>
+  <rect x="30" y="30" width="540" height="740" rx="16" fill="#FFFFFF"/>
+  <rect x="60" y="60" width="480" height="220" rx="12" fill="#00897B"/>
+  <text x="80" y="120" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">PLASTIC SANDESH</text>
+  <text x="80" y="165" fill="#D9FFF8" font-family="Arial, sans-serif" font-size="18">Sustainability &amp; Circular Economy</text>
+  <rect x="60" y="320" width="480" height="260" rx="14" fill="#E8F5E9"/>
+  <circle cx="180" cy="450" r="90" fill="#A5D6A7"/>
+  <path d="M180 396L210 448H150L180 396Z" fill="#2E7D32"/>
+  <path d="M180 502L150 450H210L180 502Z" fill="#2E7D32"/>
+  <rect x="300" y="380" width="210" height="18" rx="9" fill="#00695C"/>
+  <rect x="300" y="414" width="190" height="14" rx="7" fill="#558B2F"/>
+  <rect x="300" y="443" width="180" height="14" rx="7" fill="#558B2F"/>
+  <rect x="300" y="472" width="200" height="14" rx="7" fill="#558B2F"/>
+  <rect x="60" y="610" width="480" height="110" rx="10" fill="#F1F8E9"/>
+  <text x="80" y="657" fill="#1B5E20" font-family="Arial, sans-serif" font-size="20" font-weight="700">Green Compliance and Reuse Strategies</text>
+  <text x="80" y="690" fill="#546E7A" font-family="Arial, sans-serif" font-size="16">Case Studies Across Gujarat Units</text>
+</svg>

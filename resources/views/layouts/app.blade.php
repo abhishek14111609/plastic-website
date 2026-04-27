@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,6 +12,7 @@
     <link rel="stylesheet" href="{{ asset('css/main.css') }}">
     @yield('styles')
 </head>
+
 <body>
     <!-- Top Bar -->
     <div class="top-bar">
@@ -32,7 +34,7 @@
         <div class="container">
             <div class="logo">
                 <a href="/">
-                    <img src="{{ asset('images/logo.png') }}" alt="PMA Logo" style="height: 60px;">
+                    <img src="{{ asset('images/logo.png') }}" alt="PMA Logo">
                 </a>
             </div>
             <nav>
@@ -63,7 +65,8 @@
             <div class="footer-grid">
                 <div class="footer-col">
                     <h4>About Us</h4>
-                    <p>The leading association for plastic manufacturers, dedicated to innovation, sustainability, and industry growth since 1970.</p>
+                    <p>The leading association for plastic manufacturers, dedicated to innovation, sustainability, and
+                        industry growth since 1970.</p>
                 </div>
                 <div class="footer-col">
                     <h4>Quick Links</h4>
@@ -101,4 +104,5 @@
     <script src="{{ asset('js/main.js') }}"></script>
     @yield('scripts')
 </body>
+
 </html>

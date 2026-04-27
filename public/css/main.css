@@ -7,7 +7,7 @@
     --text-main: #333333;
     --text-muted: #666666;
     --white: #ffffff;
-    --shadow: 0 4px 6px rgba(0,0,0,0.1);
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
 }
 
@@ -25,7 +25,10 @@ body {
 }
 
 /* Typography */
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-weight: 700;
     color: var(--primary-color);
 }
@@ -77,7 +80,8 @@ a {
 }
 
 .logo img {
-    height: 60px;
+    height: 90px;
+    width: auto;
 }
 
 nav ul {
@@ -268,14 +272,14 @@ footer {
     background: var(--white);
     padding: 30px;
     border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
     border-left: 5px solid var(--primary-color);
     transition: var(--transition);
 }
 
 .activity-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
 }
 
 .activity-card h3 {
@@ -288,9 +292,16 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
-    .hero-content h1, .page-banner h1 {
+
+    .hero-content h1,
+    .page-banner h1 {
         font-size: 2rem;
     }
+
+    .logo img {
+        height: 70px;
+    }
+
     nav ul {
         display: none;
     }
